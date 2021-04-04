@@ -1,4 +1,4 @@
 const username= 'hileshaswa'
-const password = '1qazZAQ!'
+const password = ''
 
 export {username, password}
